@@ -1,5 +1,7 @@
 ### Hey my name is Tafari Vilanculos 👋
 
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tafari-vilanculos-b9604529a/)
+
 ![Tafari Vilanculos GitHub stats](https://github-readme-stats.vercel.app/api?username=TafariDragon&show_icons=true&theme=dracula)
 
 ### Back-end Tecnology
@@ -20,10 +22,7 @@
 <br>
 I am a Software Development student, lover of Programming, Philosophy, music, and Mathematics.<br>
 Always constantly learning ✍🏾 🧑🏾‍💻
-
-### Know more
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tafari-vilanculos-b9604529a/)
-
+ 
 ### Contact
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thefirecodevilanculos@gmail.com)
 
