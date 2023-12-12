@@ -3,8 +3,6 @@
 
 ![Tafari Vilanculos GitHub stats](https://github-readme-stats.vercel.app/api?username=TafariDragon&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TafariDragon&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-
 ### Back-end Tecnology
 
 <div>
